@@ -1,5 +1,5 @@
 <h1> I'm Brunna Gonçalves</h1>
-<h2> Data Science and Analytcs</h2>
+<h2> Cientista de dados e analista</h2>
 
 ### About Me
 - I'm 39 years old and I'm Brazilian, but I currently live in Buenos Aires.
