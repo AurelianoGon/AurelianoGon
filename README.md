@@ -9,8 +9,6 @@
 
 ### Technologies
 - **SQL**
-- **SQLite**
-- **MySQL**
 - ![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/40px-R_logo.svg.png)
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png)        
 
