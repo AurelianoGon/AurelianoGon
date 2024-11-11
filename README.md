@@ -2,7 +2,7 @@
 <h2> Cientista de dados e analista</h2>
 
 ### About Me
-- I'm 39 years old and I'm Brazilian, but I currently live in Buenos Aires.
+- I'm 39 years old and I'm Brazilian.
 - I enjoy working with data because because they offer a wide range of benefits that positively impact both individuals and organizations.
 - I am self-taught and highly creative and analytical. I seek to learn and improve every day.
 
